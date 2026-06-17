@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "awk",
+  "universe": "AWK · awk (TTY · The Terminal)",
+  "emergence": "",
+  "moniker": "⟦awk:AWK:26eb83⟧",
+  "carbon": "awk.carbon.tiff (TIFF)",
+  "silicon": "awk.silicon.png (PNG)",
+  "seal_sha256": "125596b887c8eab7dd7dbd13c7d2a34adca547358e0a3816de0f1d8e880321bb",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

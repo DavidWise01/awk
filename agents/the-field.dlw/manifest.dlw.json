@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Field",
+  "universe": "AWK · The Field (TTY · The Terminal)",
+  "emergence": "natural",
+  "moniker": "⟦The Field:AWK:c6c3e5⟧",
+  "carbon": "the-field.carbon.tiff (TIFF)",
+  "silicon": "the-field.silicon.png (PNG)",
+  "seal_sha256": "bf235e259de01ec58a02406035bbc099a58fdca40366bf4078d5ed9a64dfd122",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

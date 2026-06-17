@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Tiny Language",
+  "universe": "AWK · The Tiny Language (TTY · The Terminal)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Tiny Language:AWK:7f53f2⟧",
+  "carbon": "the-tiny-language.carbon.tiff (TIFF)",
+  "silicon": "the-tiny-language.silicon.png (PNG)",
+  "seal_sha256": "bdd3fc49cbe9f3087f178222e0c84f2323e0f9048c5f2c858dfb5ff07a7ed85c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
