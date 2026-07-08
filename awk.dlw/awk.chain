@@ -4,6 +4,6 @@ slug  : awk
 seal  : 125596b887c8eab7dd7dbd13c7d2a34adca547358e0a3816de0f1d8e880321bb
 prev  : 6eb40077b37afadbc90f46fe9da3ee6f77dc939f6e854c5bc26fd9aa7934bda2
 link  : 24d8fc867c5bd860b824ab97dac60a4d7df2dabdf35f58e4a61a08ba632dd8d8
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
